@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+wfdb
+tensorflow
+scikit-learn
+jupyter
+streamlit
